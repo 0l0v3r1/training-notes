@@ -1,2 +1,2 @@
-# training-notes
-My training notes
+# Training Notes
+My training notes for Programming & Cyber Security
